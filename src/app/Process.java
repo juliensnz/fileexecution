@@ -17,6 +17,7 @@ public class Process<T> {
 	
 	public Process(T value)
 	{
+		System.out.println("salope");
 		this.value = value;
 		this.priority = 0;
 		this.time = 0;
