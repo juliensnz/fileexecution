@@ -8,7 +8,7 @@ public class Process<T> {
 	
 	public Process()
 	{
-		System.out.println("salut");
+		System.out.println("salut Alex");
 		this.value = null;
 		this.priority = 0;
 		this.time = 0;
@@ -18,7 +18,7 @@ public class Process<T> {
 	
 	public Process(T value)
 	{
-		System.out.println("salope");
+		System.out.println("Tu es une grosse salope");
 		this.value = value;
 		this.priority = 0;
 		this.time = 0;
