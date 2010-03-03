@@ -8,6 +8,7 @@ public class Process<T> {
 	
 	public Process()
 	{
+		System.out.println("salut");
 		this.value = null;
 		this.priority = 0;
 		this.time = 0;
